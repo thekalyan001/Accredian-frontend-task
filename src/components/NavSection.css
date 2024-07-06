@@ -1,0 +1,29 @@
+ 
+@media (max-width: 840px) {
+   .navSectionBx{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media (max-width: 740px) {
+    .navSectionBx {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .navSectionBx .MuiTypography-body1 {
+        font-size: 0.85rem; /* Smaller font size */
+        margin-right: 10px;  /* Reduced margin */
+        margin-top: 1rem;
+        white-space: nowrap;
+        margin-bottom: 1rem;
+    }
+
+    .navSectionBx .MuiButton-root {
+        font-size: 0.875rem; /* Smaller font size */
+        padding: px 12px;   /* Adjusted padding */
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        white-space: nowrap;
+    }
+}

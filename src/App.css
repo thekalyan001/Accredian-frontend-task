@@ -1,0 +1,30 @@
+#root { 
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+ 
+}
+ 
+
+body, html {
+  margin: 0;
+  padding: 0; 
+  overflow-x: hidden; /* Prevent horizontal scroll */ 
+}
+
+
+/* ............. */
+.referSection{
+  background-color: white;
+  color: black;
+}
+
+
+@media (max-width: 718px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  
+}
+
