@@ -57,8 +57,8 @@ const ReferModal = () => {
 
     // https://accredian-backend-task-0ubo.onrender.com
     try {
-      // const response = await axios.post('http://localhost:5000/api/referme', formData);
-      const response = await axios.post('https://accredian-backend-task-0ubo.onrender.com/api/referme', formData);
+      const response = await axios.post('http://localhost:5000/api/referme', formData);
+      // const response = await axios.post('https://accredian-backend-task-0ubo.onrender.com/api/referme', formData);
 
       if (response.status === 201) {
         alert("Referral Sent successfully!");
