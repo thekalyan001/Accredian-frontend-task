@@ -15,14 +15,20 @@ OReselling is an Application in which folllowing functionality are included<br>
 <h3>👉 Screens Image Output</h3><br>
 
 
-Form Submit Screen           |   DataBase Value Inserted
-:-------------------------:|:-------------------------:
-![](https://github.com/thekalyan001/Accredian-frontend-task/blob/main/public/homescreen.JPG)  |  ![](https://github.com/thekalyan001/Accredian-frontend-task/blob/main/public/dbinsert.JPG)
+Form Submit Screen            
+:-------------------------: 
+![](https://github.com/thekalyan001/Accredian-frontend-task/blob/main/public/homescreen.JPG) 
 
 <br>
 
-Referral Mail           
+ DataBase Value Inserted           
+:-------------------------: 
+![](https://github.com/thekalyan001/Accredian-frontend-task/blob/main/public/dbinsert.JPG)
+<br>
+           
  
+  Referral Mail            
+:-------------------------: 
 ![](https://github.com/thekalyan001/Accredian-frontend-task/blob/main/public/email.JPG)   
 
 <br>
