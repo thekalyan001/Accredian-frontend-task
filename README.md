@@ -2,7 +2,7 @@
 
 ### By Kalyan Mishra ✔
 
-OReselling is an Application in which folllowing functionality are included<br>
+steps<br>
 > 1. git clone
 > 2. npm i
 > 3. npm run dev
